@@ -7,7 +7,6 @@ export default function Index() {
       <Text className={"text-center text-5xl text-primary font-bold"}>
           Welcome!
       </Text>
-      <Link href="./onboarding">Onboarding</Link>
     </View>
   );
 }
